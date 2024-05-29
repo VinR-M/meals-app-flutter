@@ -12,6 +12,8 @@ final theme = ThemeData(
   textTheme: GoogleFonts.latoTextTheme(),
 );
 
+// comment
+
 void main() {
   runApp(const ProviderScope(
     child: App(),
